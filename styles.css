@@ -4,3 +4,27 @@ body {
 
   font-family: Roboto, Verdana, sans-serif;
 }
+
+.header {
+  background: #1F2937;
+}
+
+.hero-section {
+  background: #1F2937;
+}
+
+button {
+  background: #3882F6;
+}
+
+.cta-content {
+  background: #3882F6;
+}
+
+.quote-section {
+  background: #E5E7EB;
+}
+
+.footer {
+  background: #1F2937;
+}
