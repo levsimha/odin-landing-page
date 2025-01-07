@@ -3,28 +3,69 @@ body {
   min-height: 100vh;
 
   font-family: Roboto, Verdana, sans-serif;
+  font-size: 18px;
 }
 
-.header {
+.header,
+.hero-section,
+.footer {
   background: #1F2937;
 }
 
-.hero-section {
-  background: #1F2937;
+.header-logo,
+.cta-main-text {
+  font-size: 24px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.hero-main-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+a,
+.hero-secondary-text,
+.cta-secondary-text,
+.footer {
+  color: #E5E7EB;
+}
+
+button,
+.cta-content {
+  background: #3882F6;
 }
 
 button {
-  background: #3882F6;
+  font-size: 18px;
+  font-weight: 900;
+  color: #F9FAF8;
 }
 
-.cta-content {
-  background: #3882F6;
+.info-section-title {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
 }
 
 .quote-section {
   background: #E5E7EB;
 }
 
-.footer {
-  background: #1F2937;
+.quote-text {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-author {
+  font-size: 24px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.info-item-text {
+  color: #1F2937;
 }
