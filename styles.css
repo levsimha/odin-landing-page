@@ -117,6 +117,12 @@ button {
   background: #E5E7EB;
 }
 
+.text-author-container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 64px 0;
+}
+
 .quote-text {
   font-size: 36px;
   color: #1F2937;
@@ -128,6 +134,7 @@ button {
   font-size: 24px;
   color: #1F2937;
   font-weight: 900;
+  text-align: end;
 }
 
 .sign-up-button {
