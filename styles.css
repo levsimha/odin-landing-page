@@ -20,10 +20,17 @@ body {
 
 .header {
   height: 80px;
+  width: 1024px;
+  margin: 0 auto;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.hero-container {
+  width: 1024px;
+  margin: 0 auto;
 }
 
 .header-logo,
@@ -49,6 +56,11 @@ a,
 button,
 .cta-content {
   background: #3882F6;
+}
+
+.cta-content {
+  width: 1024px;
+  margin: 0 auto;
 }
 
 button {
