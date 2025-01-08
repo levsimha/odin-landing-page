@@ -68,7 +68,9 @@ button,
 
 .cta-content {
   width: 1024px;
-  margin: 0 auto;
+  margin: 64px auto;
+  padding: 32px 128px;
+  border-radius: 8px;
 }
 
 button {
