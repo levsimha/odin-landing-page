@@ -71,6 +71,8 @@ button,
   margin: 64px auto;
   padding: 32px 128px;
   border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
 }
 
 button {
