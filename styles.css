@@ -32,6 +32,7 @@ body {
 .hero-container {
   width: 1024px;
   margin: 0 auto;
+  padding: 64px 0 96px;
 
   display: flex;
   align-items: center;
