@@ -10,7 +10,7 @@ body {
 }
 
 .header,
-.hero-section,
+.hero-container,
 .footer {
   background: #1F2937;
 }
@@ -49,13 +49,13 @@ button {
   border: 2px solid;
 }
 
-.info-section-title {
+.info-title {
   font-size: 36px;
   color: #1F2937;
   font-weight: 900;
 }
 
-.quote-section {
+.quote-container {
   background: #E5E7EB;
 }
 
