@@ -47,7 +47,7 @@ header {
   flex: 1;
 }
 
-.hl-secondary {
+.hl-secondary-text {
   margin-bottom: 16px;
 }
 
@@ -69,14 +69,14 @@ header {
   color: #F9FAF8;
 }
 
-.hl-main {
+.hl-main-text {
   font-size: 48px;
   font-weight: 900;
   color: #F9FAF8;
 }
 
 a,
-.hl-secondary,
+.hl-secondary-text,
 .cta-secondary-text,
 footer {
   color: #E5E7EB;
