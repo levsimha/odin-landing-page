@@ -6,11 +6,11 @@
 }
 
 .hero,
-.footer {
+footer {
   background: #1F2937;
 }
 
-.header {
+header {
   background: #1F2937;
   height: 80px;
 
@@ -78,7 +78,7 @@
 a,
 .hl-secondary,
 .cta-secondary-text,
-.footer {
+footer {
   color: #E5E7EB;
 }
 
@@ -190,7 +190,7 @@ a {
   text-decoration: none;
 }
 
-.footer {
+footer {
   height: 80px;
 
   display: flex;
