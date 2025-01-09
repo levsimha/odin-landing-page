@@ -87,9 +87,14 @@ button,
   background: #3882F6;
 }
 
+.cta {
+  display: flex;
+  justify-content: center;
+}
+
 .cta-content {
   width: 1024px;
-  margin: 96px auto;
+  margin: 96px 0;
   padding: 32px 128px;
   border-radius: 8px;
   display: flex;
