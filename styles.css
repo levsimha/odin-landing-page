@@ -47,7 +47,7 @@
   flex: 1;
 }
 
-.hero-secondary-text {
+.hl-secondary {
   margin-bottom: 16px;
 }
 
@@ -69,14 +69,14 @@
   color: #F9FAF8;
 }
 
-.hero-main-text {
+.hl-main {
   font-size: 48px;
   font-weight: 900;
   color: #F9FAF8;
 }
 
 a,
-.hero-secondary-text,
+.hl-secondary,
 .cta-secondary-text,
 .footer {
   color: #E5E7EB;
@@ -165,7 +165,7 @@ button {
   text-align: end;
 }
 
-.headline-sign-up {
+.hl-sign-up {
   border-color: #3882F6;
 }
 
